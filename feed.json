@@ -21,7 +21,8 @@
 				"content_html": "<p>One of this past Spring’s chicks has laid her first egg.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "One of this past Spring’s chicks has laid her first egg.\n\n<img src=\"uploads/2023/ad84e211f8.jpg\" width=\"450\" height=\"600\" alt=\"First egg from a new hen.\">\n",
 				"date_published": "2023-08-06T18:01:48-08:00",
-				"url": "https://palousegeo-test.micro.blog/2023/08/06/one-of-this.html"
+				"url": "https://palousegeo-test.micro.blog/2023/08/06/one-of-this.html",
+				"tags": ["CatB","CatC"]
 			},
 			{
 				"id": "http://palousegeo-test.micro.blog/2023/07/28/we-did-one.html",
@@ -29,7 +30,8 @@
 				"content_html": "<p>We did one of our favorite hikes along the Potlatch River.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We did one of our favorite hikes along the Potlatch River.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Potlatch River in N. Idaho.\">\n",
 				"date_published": "2023-07-28T20:58:47-08:00",
-				"url": "https://palousegeo-test.micro.blog/2023/07/28/we-did-one.html"
+				"url": "https://palousegeo-test.micro.blog/2023/07/28/we-did-one.html",
+				"tags": ["CatB"]
 			},
 			{
 				"id": "http://palousegeo-test.micro.blog/2023/02/06/ms-bean-will.html",
@@ -37,15 +39,17 @@
 				"content_html": "<p>Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.\n\n<img src=\"uploads/2023/e3757a562a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-06T17:06:00-08:00",
-				"url": "https://palousegeo-test.micro.blog/2023/02/06/ms-bean-will.html"
+				"url": "https://palousegeo-test.micro.blog/2023/02/06/ms-bean-will.html",
+				"tags": ["CatA"]
 			},
 			{
 				"id": "http://palousegeo-test.micro.blog/2023/01/14/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780758274229\">The Pub Across the Pond</a> by Mary Carter 📚\nThis is a fun light Irish romance. It&rsquo;s not my usual genre, but I enjoyed it.</p>\n",
-				"content_text": "Finished reading: [The Pub Across the Pond](https://micro.blog/books/9780758274229) by Mary Carter 📚\r\nThis is a fun light Irish romance. It's not my usual genre, but I enjoyed it.\n",
+				"content_text": "Finished reading: [The Pub Across the Pond](https://micro.blog/books/9780758274229) by Mary Carter 📚\nThis is a fun light Irish romance. It's not my usual genre, but I enjoyed it.\n",
 				"date_published": "2023-01-14T16:09:36-08:00",
-				"url": "https://palousegeo-test.micro.blog/2023/01/14/finished-reading-the.html"
+				"url": "https://palousegeo-test.micro.blog/2023/01/14/finished-reading-the.html",
+				"tags": ["CatA","CatC"]
 			},
 			{
 				"id": "http://palousegeo-test.micro.blog/2023/01/04/finished-reading-year.html",
@@ -61,7 +65,8 @@
 				"content_html": "<p>This is a test post to the test microblog.</p>\n",
 				"content_text": "This is a test post to the test microblog.\n",
 				"date_published": "2023-01-04T08:43:17-08:00",
-				"url": "https://palousegeo-test.micro.blog/2023/01/04/this-is-a.html"
+				"url": "https://palousegeo-test.micro.blog/2023/01/04/this-is-a.html",
+				"tags": ["CatC"]
 			},
 			{
 				"id": "http://palousegeo-test.micro.blog/2022/12/09/welcome-to-your.html",
@@ -69,7 +74,8 @@
 				"content_html": "<p>Welcome to your test blog! You can create new posts here to test theme and design changes.</p>\n",
 				"content_text": "Welcome to your test blog! You can create new posts here to test theme and design changes.\n",
 				"date_published": "2022-12-09T09:57:45-08:00",
-				"url": "https://palousegeo-test.micro.blog/2022/12/09/welcome-to-your.html"
+				"url": "https://palousegeo-test.micro.blog/2022/12/09/welcome-to-your.html",
+				"tags": ["CatA"]
 			}
 	]
 }
