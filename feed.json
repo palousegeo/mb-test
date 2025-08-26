@@ -11,7 +11,7 @@
 				"title": "Mac or PC laptop?",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I think this is a no-brainer for most people reading this. I used a PC for my entire working career. The professional software I used for many of those years didn&rsquo;t run on Macs. Later, when I moved on to open source software alternatives, it still worked better on PCs than Macs.</p>\n<p>I retired several years ago, and my old PC laptop gave out not long after. Digitally, I have been doing more consumption than creation. I&rsquo;ve had an iPhone for years in large part to stay compatible with my wife (who just wants her tech to work with minimal involvement on her part). I bought an iPad after I retired, and that has been my primary digital device. The iPad is great for reading and watching, but frustrating to type more than a short email. I&rsquo;ll save my experiences with the Apple Pencil for a future post. I do have a nice Windows 10 desktop, but it is older and Microsoft has deemed it unworthy for upgrade. Support for Windows 10 is slated to end later this year.</p>\n<p>So why do I want a laptop? I&rsquo;m looking to dust off the web development and python skills I used to have. As a former data science person I would like to investigate the promises and perils of AI on my own. If nothing else I would like to compare notes on this with my grandkids.</p>\n<p>I feel like I could do my development work on either platform. I do think that Microsoft&rsquo;s vision for AI Is more developed than Apple&rsquo;s. I&rsquo;ve been satisfied with my Apple devices and will continue to use them. It is tempting to stay within Apple&rsquo;s ecosystem. It is also clearly the environment of choice within the Micro.blog community where I spend a lot of time these days. It would be nice to be able to relate to the tech posts there.</p>\n<p>On the other hand I have 40 years of satisfied experience with Windows (and earlier DOS).</p>\n<p>I think it will come down to a snap decision on the day I order.</p>\n",
 				"content_text": "<img src=\"https://i.pinimg.com/originals/0c/ae/fe/0caefe0581bee7e38ee8fe1dfc4495ad.jpg\" alt=\"PC vs. Mac old ad showing 2 males representing the 2 systems\" width=\"400\">\r\n\r\n\r\nI think this is a no-brainer for most people reading this. I used a PC for my entire working career. The professional software I used for many of those years didn't run on Macs. Later, when I moved on to open source software alternatives, it still worked better on PCs than Macs.\r\n\r\n\r\nI retired several years ago, and my old PC laptop gave out not long after. Digitally, I have been doing more consumption than creation. I've had an iPhone for years in large part to stay compatible with my wife (who just wants her tech to work with minimal involvement on her part). I bought an iPad after I retired, and that has been my primary digital device. The iPad is great for reading and watching, but frustrating to type more than a short email. I'll save my experiences with the Apple Pencil for a future post. I do have a nice Windows 10 desktop, but it is older and Microsoft has deemed it unworthy for upgrade. Support for Windows 10 is slated to end later this year.\r\n\r\n\r\nSo why do I want a laptop? I'm looking to dust off the web development and python skills I used to have. As a former data science person I would like to investigate the promises and perils of AI on my own. If nothing else I would like to compare notes on this with my grandkids. \r\n\r\n\r\nI feel like I could do my development work on either platform. I do think that Microsoft's vision for AI Is more developed than Apple's. I've been satisfied with my Apple devices and will continue to use them. It is tempting to stay within Apple's ecosystem. It is also clearly the environment of choice within the Micro.blog community where I spend a lot of time these days. It would be nice to be able to relate to the tech posts there. \r\n\r\n\r\nOn the other hand I have 40 years of satisfied experience with Windows (and earlier DOS). \r\n\r\n\r\nI think it will come down to a snap decision on the day I order.\r\n\r\n",
-				"date_published": "2025-02-16T11:59:34-08:00",
+				"date_published": "2025-02-16T12:59:34-07:00",
 				"url": "https://palousegeo-test.micro.blog/2025/02/16/mac-or-pc-laptop.html",
 				"tags": ["CatA"]
 			},
@@ -20,7 +20,7 @@
 				
 				"content_html": "<p>Replacing this old half-buried sidewalk has been on my todo list for years. Nice weather this month finally allowed me to finish it.</p>\n<p>Before:</p>\n<!-- raw HTML omitted -->\n<p>After:</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Replacing this old half-buried sidewalk has been on my todo list for years. Nice weather this month finally allowed me to finish it.\n\nBefore:\n\n<img src=\"uploads/2024/4ba7f431-3ad6-46d5-a80b-670b52ab6318.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: A partially dug-up yard features a concrete pathway leading to a house, with surrounding plants and a wheelbarrow nearby.\">\n\nAfter:\n\n<img src=\"uploads/2024/8b9ae5ed-019a-4eea-8ed6-7e72c56417ba.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: A newly constructed stone path winds through a garden area beside a house with a visible driveway and garage.\">\n\n",
-				"date_published": "2024-10-28T09:56:06-08:00",
+				"date_published": "2024-10-28T10:56:06-07:00",
 				"url": "https://palousegeo-test.micro.blog/2024/10/28/replacing-this-old.html"
 			},
 			{
@@ -28,7 +28,7 @@
 				
 				"content_html": "<p>This is a test post to <em>palousegeo-test blog</em>.</p>\n<blockquote>\n<p>This is a block quote which I haven&rsquo;t used before.\nThis <strong>is the second</strong> line of the blockquote.</p>\n</blockquote>\n",
 				"content_text": "This is a test post to *palousegeo-test blog*.\n\n>This is a block quote which I haven't used before.\n>This **is the second** line of the blockquote.\n",
-				"date_published": "2024-10-02T09:48:51-08:00",
+				"date_published": "2024-10-02T10:48:51-07:00",
 				"url": "https://palousegeo-test.micro.blog/2024/10/02/this-is-a.html"
 			},
 			{
@@ -36,7 +36,7 @@
 				"title": "Shrooms ",
 				"content_html": "<p>Experimenting with photo posting techniques.\n<img src=\"https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg\" alt=\"mushrooms\"></p>\n",
 				"content_text": "Experimenting with photo posting techniques. \n![mushrooms](https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg)\n\n",
-				"date_published": "2023-10-21T20:11:00-08:00",
+				"date_published": "2023-10-21T21:11:00-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/10/21/shrooms.html",
 				"tags": ["CatA","CatB"]
 			},
@@ -45,7 +45,7 @@
 				
 				"content_html": "<p>One of this past Spring’s chicks has laid her first egg.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "One of this past Spring’s chicks has laid her first egg.\n\n<img src=\"uploads/2023/ad84e211f8.jpg\" width=\"450\" height=\"600\" alt=\"First egg from a new hen.\">\n",
-				"date_published": "2023-08-06T18:01:48-08:00",
+				"date_published": "2023-08-06T19:01:48-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/08/06/one-of-this.html",
 				"tags": ["CatB","CatC"]
 			},
@@ -54,7 +54,7 @@
 				
 				"content_html": "<p>We did one of our favorite hikes along the Potlatch River.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We did one of our favorite hikes along the Potlatch River.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Potlatch River in N. Idaho.\">\n",
-				"date_published": "2023-07-28T20:58:47-08:00",
+				"date_published": "2023-07-28T21:58:47-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/07/28/we-did-one.html",
 				"tags": ["CatB"]
 			},
@@ -63,7 +63,7 @@
 				
 				"content_html": "<p>Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.\n\n<img src=\"https://cdn.uploads.micro.blog/93998/2023/e3757a562a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-06T17:06:00-08:00",
+				"date_published": "2023-02-06T18:06:00-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/02/06/ms-bean-will.html",
 				"tags": ["CatA"]
 			},
@@ -72,7 +72,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780758274229\">The Pub Across the Pond</a> by Mary Carter 📚\nThis is a fun light Irish romance. It&rsquo;s not my usual genre, but I enjoyed it.</p>\n",
 				"content_text": "Finished reading: [The Pub Across the Pond](https://micro.blog/books/9780758274229) by Mary Carter 📚\nThis is a fun light Irish romance. It's not my usual genre, but I enjoyed it.\n",
-				"date_published": "2023-01-14T16:09:36-08:00",
+				"date_published": "2023-01-14T17:09:36-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/14/finished-reading-the.html",
 				"tags": ["CatA","CatC"]
 			},
@@ -81,7 +81,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781472251824\">Year of Wonder: Classical Music to Enjoy Day by Day</a> by Clemency Burton-Hill 📚</p>\n<p>My wife and I used this book to guide our listening each day after dinner. Be aware you need an account with Apple Music or Spotify to access the playlists.</p>\n",
 				"content_text": "Finished reading: [Year of Wonder: Classical Music to Enjoy Day by Day](https://micro.blog/books/9781472251824) by Clemency Burton-Hill 📚\r\n\r\nMy wife and I used this book to guide our listening each day after dinner. Be aware you need an account with Apple Music or Spotify to access the playlists.\n",
-				"date_published": "2023-01-04T09:29:02-08:00",
+				"date_published": "2023-01-04T10:29:02-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/04/finished-reading-year.html"
 			},
 			{
@@ -89,7 +89,7 @@
 				
 				"content_html": "<p>This is a test post to the test microblog.</p>\n",
 				"content_text": "This is a test post to the test microblog.\n",
-				"date_published": "2023-01-04T08:43:17-08:00",
+				"date_published": "2023-01-04T09:43:17-07:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/04/this-is-a.html",
 				"tags": ["CatC"]
 			},
@@ -98,7 +98,7 @@
 				
 				"content_html": "<p>Welcome to your test blog! You can create new posts here to test theme and design changes.</p>\n",
 				"content_text": "Welcome to your test blog! You can create new posts here to test theme and design changes.\n",
-				"date_published": "2022-12-09T09:57:45-08:00",
+				"date_published": "2022-12-09T10:57:45-07:00",
 				"url": "https://palousegeo-test.micro.blog/2022/12/09/welcome-to-your.html",
 				"tags": ["CatA"]
 			}
